@@ -1,0 +1,7 @@
+.notification {
+    background: rgba(235, 235, 179, 0.548);
+    padding: 15px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+}
